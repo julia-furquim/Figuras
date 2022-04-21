@@ -15,10 +15,7 @@ public class Retangulo
         Largura = largura;
         Comprimento = comprimento;
 
-    } //=> Largura = largura;
-
-
-    //public Retangulo(double comprimento) => Comprimento = comprimento;
+    } 
 
 
 
