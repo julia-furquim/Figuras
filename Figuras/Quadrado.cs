@@ -8,7 +8,7 @@ public class Quadrado
      get { return Lado * Lado; }
     }
     public double Perimetro{get => 4 * Lado;}
-    public Quadrado(double Lado) => Lado = Lado;
+    public Quadrado(double lado) => Lado = lado;
 
 }
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pichau\\OneDrive\\Área de Trabalho\\Projetos\\Figuras\\Figuras\\Figuras.csproj": {}
+    "C:\\Users\\Pichau\\OneDrive\\Área de Trabalho\\Figuras\\Figuras\\Figuras.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pichau\\OneDrive\\Área de Trabalho\\Projetos\\Figuras\\Figuras\\Figuras.csproj": {
+    "C:\\Users\\Pichau\\OneDrive\\Área de Trabalho\\Figuras\\Figuras\\Figuras.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pichau\\OneDrive\\Área de Trabalho\\Projetos\\Figuras\\Figuras\\Figuras.csproj",
+        "projectUniqueName": "C:\\Users\\Pichau\\OneDrive\\Área de Trabalho\\Figuras\\Figuras\\Figuras.csproj",
         "projectName": "Figuras",
-        "projectPath": "C:\\Users\\Pichau\\OneDrive\\Área de Trabalho\\Projetos\\Figuras\\Figuras\\Figuras.csproj",
+        "projectPath": "C:\\Users\\Pichau\\OneDrive\\Área de Trabalho\\Figuras\\Figuras\\Figuras.csproj",
         "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pichau\\OneDrive\\Área de Trabalho\\Projetos\\Figuras\\Figuras\\obj\\",
+        "outputPath": "C:\\Users\\Pichau\\OneDrive\\Área de Trabalho\\Figuras\\Figuras\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config"
